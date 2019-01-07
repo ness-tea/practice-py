@@ -1,3 +1,7 @@
+## Draw a Gameboard
+#  Draws a gameboard given a width and height inputted by the user. Can use for
+#  games requiring a board layout like tic tac toe, checkers, etc.
+
 def drawBoard(height, width):
     hstroke = "--- "
     vstroke = "|   "
